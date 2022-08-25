@@ -1,45 +1,0 @@
-
-IWeb:AvoidCommentedOutCodeCheck2"Remove this commented out code.(ù¤
-IWeb:AvoidCommentedOutCodeCheck3"Remove this commented out code.(ï˜‹
-IWeb:AvoidCommentedOutCodeCheck4"Remove this commented out code.(¹ÙÙÚ
-NWeb:AvoidCommentedOutCodeCheck5"Remove this commented out code.(Ú›º…üÿÿÿÿ
-IWeb:AvoidCommentedOutCodeCheck6"Remove this commented out code.(ø—Åå
-IWeb:AvoidCommentedOutCodeCheck7"Remove this commented out code.(à‘ô–
-IWeb:AvoidCommentedOutCodeCheck8"Remove this commented out code.(‹ü­½
-IWeb:AvoidCommentedOutCodeCheck9"Remove this commented out code.(‹ü­½
-XWeb:FrameWithoutTitleCheck~"-Add a "title" attribute to this <iframe> tag.(¸ÛÓ½úÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck–"Replace this <i> tag by <em>.(ô½½Éıÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck—"Replace this <i> tag by <em>.(æ…šËùÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck˜"Replace this <i> tag by <em>.(áıÓÕûÿÿÿÿ
-IWeb:BoldAndItalicTagsCheckİ"Replace this <i> tag by <em>.(ìêèùÿÿÿÿ
-IWeb:BoldAndItalicTagsChecké"Replace this <i> tag by <em>.(„ƒÖ©ûÿÿÿÿ
-IWeb:BoldAndItalicTagsCheckõ"Replace this <i> tag by <em>.(É‡¢úÿÿÿÿ
-IWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(…Ç·Œıÿÿÿÿ
-WWeb:LinkToImageCheck¤"1Change this link to not directly target an image.(¼ÖÆşÿÿÿÿ
-CWeb:BoldAndItalicTagsCheck¥"Replace this <i> tag by <em>.(Ş²ÅG
-DWeb:BoldAndItalicTagsCheck¦"Replace this <i> tag by <em>.(˜²›—
-WWeb:LinkToImageCheck¯"1Change this link to not directly target an image.(ìÏÀ¦ûÿÿÿÿ
-CWeb:BoldAndItalicTagsCheck°"Replace this <i> tag by <em>.(Ş²ÅG
-DWeb:BoldAndItalicTagsCheck±"Replace this <i> tag by <em>.(˜²›—
-RWeb:LinkToImageCheckº"1Change this link to not directly target an image.(Ç¦–
-CWeb:BoldAndItalicTagsCheck»"Replace this <i> tag by <em>.(Ş²ÅG
-DWeb:BoldAndItalicTagsCheck¼"Replace this <i> tag by <em>.(˜²›—
-RWeb:LinkToImageCheckÅ"1Change this link to not directly target an image.(¯è¥¥
-CWeb:BoldAndItalicTagsCheckÆ"Replace this <i> tag by <em>.(Ş²ÅG
-DWeb:BoldAndItalicTagsCheckÇ"Replace this <i> tag by <em>.(˜²›—
-WWeb:LinkToImageCheckĞ"1Change this link to not directly target an image.(¤Æû­üÿÿÿÿ
-CWeb:BoldAndItalicTagsCheckÑ"Replace this <i> tag by <em>.(Ş²ÅG
-DWeb:BoldAndItalicTagsCheckÒ"Replace this <i> tag by <em>.(˜²›—
-RWeb:LinkToImageCheckÛ"1Change this link to not directly target an image.(¥¸‘
-CWeb:BoldAndItalicTagsCheckÜ"Replace this <i> tag by <em>.(Ş²ÅG
-DWeb:BoldAndItalicTagsCheckİ"Replace this <i> tag by <em>.(˜²›—
-DWeb:BoldAndItalicTagsCheckù"Replace this <i> tag by <em>.(àŸûæ
-DWeb:BoldAndItalicTagsCheckˆ"Replace this <i> tag by <em>.(àŸûæ
-DWeb:BoldAndItalicTagsCheck—"Replace this <i> tag by <em>.(àŸûæ
-DWeb:BoldAndItalicTagsCheckÈ"Replace this <i> tag by <em>.(µğÙ
-IWeb:BoldAndItalicTagsCheckÉ"Replace this <i> tag by <em>.(¶®êıÿÿÿÿ
-DWeb:BoldAndItalicTagsCheckÊ"Replace this <i> tag by <em>.(ë¥ã
-IWeb:BoldAndItalicTagsCheckË"Replace this <i> tag by <em>.(­©áøÿÿÿÿ
-YWeb:FrameWithoutTitleCheckı"-Add a "title" attribute to this <iframe> tag.(ÁƒšÂşÿÿÿÿ
-OWeb:ImgWithoutAltCheckŸ"%Add an "alt" attribute to this image.(º÷¿–8²ÂÚÇ«0
-KWeb:BoldAndItalicTagsCheck£"Replace this <i> tag by <em>.(öŸ²µ8™‹¢Ç«0
